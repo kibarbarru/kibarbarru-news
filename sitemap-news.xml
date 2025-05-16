@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+
+  <url>
+    <loc>https://www.kibarbarru.com/2025/05/langkah-strategis-menuju-barru-2025.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Kibarbarru</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-16T08:00:00+07:00</news:publication_date>
+      <news:title>langkah strategis menuju barru 2025 - 2029 : forum perngakat daerah resmi digelar</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.kibarbarru.com/2025/05/kesatuan-aktivis-barru-desak.html.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Kibarbarru</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-15T14:30:00+07:00</news:publication_date>
+      <news:title>kesatuan aktivis Barru Desak transparansi DPRD terkait dugaan perselingkuhan oknum anggota Dewan </news:title>
+    </news:news>
+  </url>
+
+</urlset>
